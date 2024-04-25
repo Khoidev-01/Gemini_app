@@ -1,16 +1,2 @@
-# gemini_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# GEMINI APP
+This is an AI-powered chat app using Flutter and Google Gemini API. I use the Flutter_gemini package to communicate with the Gemini API from our Flutter app. I set up the app including installing dependencies, generating a Gemini API Key, and chatting with Gemini using Text and images. This is a great app for beginner Flutter developers or anyone who wants to learn about creating AI-powered chat apps using Flutter and the Google Gemini API.
